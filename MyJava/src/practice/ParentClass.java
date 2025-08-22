@@ -1,3 +1,5 @@
+package practice;
+
 public class ParentClass {
     String engine = "BS-VI";
 
